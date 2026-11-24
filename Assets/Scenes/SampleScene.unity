@@ -1065,8 +1065,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08d92983bb5e2614db56d505ec07dc50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrashItem
-  despawnDelay: 3
-  respawnDelay: 5
+  despawnDelay: 5
+  respawnDelay: 3
+  bounciness: 0.6
+  bounceFriction: 0.3
 --- !u!114 &721972317
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2028,8 +2030,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08d92983bb5e2614db56d505ec07dc50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrashItem
-  despawnDelay: 3
-  respawnDelay: 5
+  despawnDelay: 5
+  respawnDelay: 3
+  bounciness: 0.3
+  bounceFriction: 0.3
 --- !u!114 &1328779841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2395,8 +2399,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08d92983bb5e2614db56d505ec07dc50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrashItem
-  despawnDelay: 3
-  respawnDelay: 5
+  despawnDelay: 5
+  respawnDelay: 3
+  bounciness: 0.6
+  bounceFriction: 0.3
 --- !u!114 &1928917647
 MonoBehaviour:
   m_ObjectHideFlags: 0
